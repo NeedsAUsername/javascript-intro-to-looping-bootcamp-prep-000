@@ -4,7 +4,7 @@ function forloop(array) {
   }
 }
 
-array = {}
+array = []
 
 forloop(array)
 
